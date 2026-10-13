@@ -1,8 +1,8 @@
 Hi, I'm Aditya 👋
 
-I spent about two years as an Epic Beaker (lab) analyst: supporting health systems
-through go-live and everything after it, running steering meetings, and closing 250+
-tickets. These days I build things with Claude Code and figure out how to make AI play
+I spent about two years as a technical solutions engineer at Epic, the primary
+technical contact for its Beaker lab system at 3 health systems (25+ hospitals):
+HL7 integrations, go-live support, steering meetings, and 250+ tickets. These days I build things with Claude Code and figure out how to make AI play
 nicely with other software. Next up I'm looking for forward-deployed / solutions roles.
 
 **Start here**
